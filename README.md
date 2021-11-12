@@ -9,9 +9,9 @@ A CS Student, Developer & Freelancer
 GIF
 
 Talking about my personal stuff:
-🙋‍♂️ Top-Rated Freelancer at Upwork
-⚡ Data Scraping/Web automation
-💻 Android/Windows/Web dev
+🙋‍♂️ Freelancer at Fiver
+⚡ Flutter Developer
+💻 Full stack
 📑 CS Student from KFUEIT, Rahim yar Khan.
 My skills 🛠
 👉 Flutter Developer
