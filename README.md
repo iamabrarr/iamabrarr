@@ -1,16 +1,28 @@
-### Hi there 👋
+Hey there, I'm Hassan 
+I've worked on 20+ projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
 
-<!--
-**iamabrarr/iamabrarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's connect!
 
-Here are some ideas to get you started:
+      
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A CS Student, Developer & Freelancer
+GIF
+
+Talking about my personal stuff:
+🙋‍♂️ Top-Rated Freelancer at Upwork
+⚡ Data Scraping/Web automation
+💻 Android/Windows/Web dev
+📑 CS Student from KFUEIT, Rahim yar Khan.
+My skills 🛠
+👉 Flutter Developer
+👉 Firebase & Firestore
+👉 Playing with APIs
+👉 Sqflite (local database)
+👉 Responsive App
+👉 Getx
+👉 MVC pattern
+👉 Dart
+👉 Animations
+
+
+
