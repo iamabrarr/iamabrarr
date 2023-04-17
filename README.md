@@ -1,5 +1,5 @@
 Hey there, I'm Abrar 
-I've worked on 40+ projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
+I've worked on 80+ projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
 
 Let's connect!
       
