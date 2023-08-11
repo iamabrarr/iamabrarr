@@ -1,118 +1,126 @@
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
-
-<img src="https://profile-counter.glitch.me/walleeva2018/count.svg">
-
-[![GitHub followers](https://img.shields.io/github/followers/walleeva2018.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
-
-### Here's my github stats:
-
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
+</div>
 
 
-### Languages I'm good at
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-### Technologies  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
 
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![HyperLedger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-### Competitive Programming Profiles (Judge me by my Prime) <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-<a href="https://leetcode.com/walleeva2018/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
-<a href="https://codeforces.com/profile/walleeva">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
-<a href="https://www.codechef.com/users/mcqueen2018">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
-<a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="https://www.hackerearth.com/@walleeva2018">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
-<br>
-[Atcoder](https://atcoder.jp/users/walleeva)
-<br>
-[Toph](https://toph.co/u/mcqueen)
-<br>
-[LightOJ](https://lightoj.com/user/zubairahmedr)
-<br>
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-### Live Project ( whichever is possible by free hosting) 
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-[HackerNews](https://hacker-news-zubair.netlify.app/)
-<br>
-[TODO APP](https://coruscating-smakager-fcb251.netlify.app/)
-<br>
-[My educational Site(Naive)](https://gyanarjan.herokuapp.com/)
-<br>
-[CP BLOG](https://sohojeprogramming.blogspot.com/)
-<br>
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-### Open Source 
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
-<a href="https://github.com/walleeva2018/problem-tutorials">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
-</a>  
+- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+<!--Intro end-->
 
 
 
-### Learning 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-
-
-### Some of my cool public repositories (not forks):
-
-<a href="https://github.com/walleeva2018/ML">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
-</a>  
-
-<a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
-</a>  
-
-<a href="https://github.com/walleeva2018/Web">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Web&theme=onedark" />
-</a>  
-
-<a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=onedark" />
-</a>  
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 
+</p>        
+<!--- stats (end) -->
 
 
-### Thank you for visiting my profile 🤓 Here is a midjourney image of my everyday situation 
-[![](https://github.com/walleeva2018/walleeva2018/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg?raw=true)]
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
-### Feel free to fork and 🌟 this repo!!
 
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-ahmed-rafi-95ba3322a/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mcqueen2837)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100015181156377)
-<br> <br>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
+
+Last Edited on: 29/4/2023
